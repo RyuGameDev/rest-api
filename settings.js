@@ -5,7 +5,7 @@ global.MONGO_DB_URI = "mongodb+srv://ryudevid:Cahngoding1@cluster0.xknn0zv.mongo
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "ryudev.id@gmail.com" //email
 global.email_password = "ibai besd diej duen" //application password email
-global.limitCount = 15
+global.limitCount = 9999999999999999
 global.YUOR_PORT = 8000
 global.loghandler = {
 	noapikey:{
